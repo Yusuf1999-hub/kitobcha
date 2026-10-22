@@ -6,5 +6,5 @@ print("HELLO WORLD")
 print("OLMA")
 print("Axmad jo'ja")
 a = 90
-b = 0
+b = int(input())
 print(a/b)
